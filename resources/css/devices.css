@@ -1,0 +1,9 @@
+.login-main{padding: 10px 0 40px 0;background-image: url(../../assets/images/device/bgdeviceone.jpg);background-position: center;background-attachment: fixed;}.loginform{background-color: #fff;width: 50%;
+margin: 0 auto;height: auto;}.loginform-heading h1{padding-top: 40px;text-align: center;color:  #1E88E5;font-weight: 700;margin-bottom: 10px;}.loginform-heading h6{text-align: center;color: #000;font-weight: 600;
+margin-bottom: 20px; } .marker{color: #469AD4;background-color: #eee; } .fieldInput{width: 60%;margin: 5px auto;margin-bottom: 15px; } .form-button1{width: 100%;margin: 0 auto;margin-bottom: 20px; } .form-button1 button{
+background-color: #469AD4;font-weight: 700;color: #fff;width: 100%;padding: 10px 0;border: none; } .form-button1 button:hover{background-color: #1E88E5;}.form-button2{width: 100%;margin: 0 auto 10px auto; }.form-button2 button{
+font-weight: 600;background-color: #fff;color: #000;width: 100%;padding: 5px 0;border: 1px solid #000;}.form-button2 button:hover{background-color: #eee; }.form-button3{width: 100%;margin: 0 auto 20px auto;}.form-button3 button{
+font-weight: 600;color: #000;background-color: #eee;width: 100%;padding: 5px 0;border: 1px solid #000;}.form-button3 button:hover{background-color: #fff;}.form-button1 button{background-color:   #469AD4;font-weight: 700;color: #fff;
+width: 100%;padding: 10px 0;}.form-button1 button:hover{background-color: #1E88E5;}.form-merchantbtn{width: 100%;margin: 0 auto;padding-bottom: 20px;}.form-merchantbtn button{background-color: #FBA927;font-weight: 700;color: #fff;width: 100%;
+padding: 10px ;}.form-merchantbtn button:hover{background-color: #FB8327;}.forms-btext p{text-align: center;color: #000;font-weight: 500;margin-bottom: 10px;}.free-delivery{background-color: #F7F7F7;text-align: center;padding: 15px 0;}.free-delivery a{
+color: #469AD4;font-weight: 500;padding: 15px 0;}.moveright i{margin-right: 5px;}
